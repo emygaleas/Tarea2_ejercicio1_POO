@@ -28,5 +28,7 @@ public class Main {
         for (Jugador j : jugadores){
             j.mostrar_informacion();
         }
+        System.out.println("Informacion mostrada correctamente :D");
+        System.out.println("Probando commits");
     }
 }
