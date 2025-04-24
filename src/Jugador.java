@@ -2,10 +2,10 @@ public class Jugador {
     //nombre, posición en el campo, edad y número de camiseta
     private String nombre;
     private String posicion;
-    private Integer edad;
-    private Integer camiseta;
+    private int edad;
+    private int camiseta;
 
-    public Jugador(String nombre, String posicion, Integer edad, Integer camiseta){
+    public Jugador(String nombre, String posicion, int edad, int camiseta){
         this.nombre = nombre;
         this.posicion = posicion;
         this.edad = edad;
